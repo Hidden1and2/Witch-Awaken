@@ -1,0 +1,26 @@
+{
+  "title": "Pokemon Team Riddle",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1662252220",
+      "groups": {
+        "": [
+          "https://i.redd.it/kmk8eu98dnl91.jpg",
+          "https://i.redd.it/sj669u98dnl91.jpg",
+          "https://i.redd.it/4kmr6u98dnl91.jpg",
+          "https://i.redd.it/bfnp9u98dnl91.jpg",
+          "https://i.redd.it/nx0rvt98dnl91.jpg",
+          "https://i.redd.it/spkryu98dnl91.jpg",
+          "https://i.redd.it/g7c9bu98dnl91.jpg",
+          "https://i.redd.it/3hqbku98dnl91.jpg"
+        ]
+      }
+    }
+  }
+}
