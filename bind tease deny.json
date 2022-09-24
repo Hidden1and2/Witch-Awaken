@@ -1,0 +1,26 @@
+{
+  "title": "bind tease deny",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1664049070",
+      "groups": {
+        "": [
+          "https://i.redd.it/4g11cp1ivip91.png",
+          "https://i.redd.it/u40na9vivip91.png",
+          "https://i.redd.it/ace0npmjvip91.png",
+          "https://i.redd.it/lopd8qikvip91.png",
+          "https://i.redd.it/nrz54c9lvip91.png",
+          "https://i.redd.it/qatvgivlvip91.png",
+          "https://i.redd.it/seciyqcmvip91.png",
+          "https://i.redd.it/ryvm18umvip91.png"
+        ]
+      }
+    }
+  }
+}
