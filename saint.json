@@ -1,0 +1,23 @@
+{
+  "title": "saint",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1671208564",
+      "groups": {
+        "": [
+          "https://i.redd.it/3asxoo26f86a1.png",
+          "https://i.redd.it/5ucvnx07f86a1.png",
+          "https://i.redd.it/6a3on438f86a1.png",
+          "https://i.redd.it/tk5izl29f86a1.png",
+          "https://i.redd.it/a8ozl41af86a1.png"
+        ]
+      }
+    }
+  }
+}
