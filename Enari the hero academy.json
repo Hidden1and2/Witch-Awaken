@@ -4,5 +4,24 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1673588950",
+      "groups": {
+        "": [
+          "https://i.redd.it/bqgzia4iq0x91.png",
+          "https://i.redd.it/1wew6f4iq0x91.png",
+          "https://i.redd.it/4vorzf4iq0x91.png",
+          "https://i.redd.it/xt70d19iq0x91.png",
+          "https://i.redd.it/i5oo0j9iq0x91.png",
+          "https://i.redd.it/mx56u4aiq0x91.png",
+          "https://i.redd.it/4zsgdd7iq0x91.png",
+          "https://i.redd.it/xfh2dn4iq0x91.png",
+          "https://i.redd.it/3wlaqh4iq0x91.png"
+        ]
+      }
+    }
+  }
 }
