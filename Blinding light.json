@@ -1,0 +1,23 @@
+{
+  "title": "Blinding light",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1687107664",
+      "groups": {
+        "": [
+          "https://i.redd.it/g1wi6730xk6b1.png",
+          "https://i.redd.it/098ln430xk6b1.png",
+          "https://i.redd.it/mkbb2c30xk6b1.jpg",
+          "https://i.redd.it/m4tlg230xk6b1.jpg",
+          "https://i.redd.it/tq7t6h30xk6b1.jpg"
+        ]
+      }
+    }
+  }
+}
